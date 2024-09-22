@@ -183,7 +183,9 @@
     background-image: -webkit-linear-gradient(rgba(0,0,0,.24)),url(/img/home/renowed-substation.jpg);
     background-image: linear-gradient(rgba(0,0,0,.24)),url(/img/home/renowed-substation.jpg);
     background-size: cover;
-    height: 100vh
+    /* height: 100vh */
+    padding-top: 88px;
+    padding-bottom: 88px;
 }
 
 @media screen and (max-width: 576px) {
@@ -2350,7 +2352,7 @@ body {
 }
 
 .heading-md {
-    font-size: 4rem
+    font-size: 2.9rem
 }
 
 .heading-xl {
@@ -16211,3 +16213,9 @@ textarea.form-control-lg {
     }
   }
   
+
+
+  #top-most-heading > h1 {
+    line-height: 0;
+    margin-bottom:0;
+  }
