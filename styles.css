@@ -2236,37 +2236,37 @@
 
 @font-face {
     font-family: Helvetica-Bold;
-    src: url(/fonts/HelveticaNeue-Bold.otf)
+    src: url(fonts/HelveticaNeue-Bold.otf)
 }
 
 @font-face {
     font-family: Helvetica-light;
-    src: url(/fonts/HelveticaNeue-Light.otf)
+    src: url(fonts/HelveticaNeue-Light.otf)
 }
 
 @font-face {
     font-family: Helvetica-medium;
-    src: url(/fonts/HelveticaNeue-Medium.otf)
+    src: url(fonts/HelveticaNeue-Medium.otf)
 }
 
 @font-face {
     font-family: Helvetica-regular;
-    src: url(/fonts/HelveticaNeue-Regular.otf)
+    src: url(fonts/HelveticaNeue-Regular.otf)
 }
 
 @font-face {
     font-family: Helvetica-regularItalic;
-    src: url(/fonts/HelveticaNeue-RegularItalic.otf)
+    src: url(fonts/HelveticaNeue-RegularItalic.otf)
 }
 
 @font-face {
     font-family: Helvetica-thin;
-    src: url(/fonts/HelveticaNeue-Thin.otf)
+    src: url(fonts/HelveticaNeue-Thin.otf)
 }
 
 @font-face {
     font-family: HelvetcaUltralight;
-    src: url(/fonts/HelveticaNeue-Ultralight.otf)
+    src: url(fonts/HelveticaNeue-Ultralight.otf)
 }
 
 .fontweightBold {
